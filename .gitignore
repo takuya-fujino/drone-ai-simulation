@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Model files (必要に応じて)
+# *.pth
+# *.h5
+
+# Operating System files
+.DS_Store
+Thumbs.db
