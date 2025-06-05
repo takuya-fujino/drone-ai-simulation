@@ -40,9 +40,7 @@ pip install -r requirements.txt
 
 以下のコマンドでPythonスクリプトを実行します。
 
-python simulate_drone_movement.py 
-
-(スクリプト名が異なる場合は適宜修正してください)
+python simulate_drone_movement.py
 
 コードのポイント (Laboro.AI様向けアピールポイント)
 機械学習ワークフローのデモンストレーション: データ準備(簡易)、モデル定義、学習、推論、評価(シミュレーションによる)という、機械学習プロジェクトの一連の流れを実装しています。
